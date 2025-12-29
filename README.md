@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=55&pause=1000&color=D08181&center=true&vCenter=true&width=800&lines=Hallo,+I'm+shasha+^o^" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=35&pause=1000&color=D08181&center=true&vCenter=true&width=800&lines=Hallo,+I'm+shasha+^o^" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <br />
       <ul>
         <li>💻 I'm a <b>Software Developer</b> who enjoys building web applications.</li>
