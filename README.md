@@ -8,7 +8,6 @@
 
 ## ☺︎ About me
 
----
 
 <table align="center">
   <tr>
