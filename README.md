@@ -6,21 +6,33 @@
   <img src="img/butterfly.gif" width="200" alt="butterfly" />
 </p>
 
-## ☺︎ About me
-
+## 👋 About me
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <br />
       <ul>
-        <li>💻 I'm a <b>Software Developer</b> who enjoys building web applications.</li>
-        <li>🌱 Currently learning & improving skills in <b>Web Development</b>.</li>
-        <li>📍 From Indonesia, living in Bogor.</li>
+        <li>
+          💻 I'm a 
+          <span style="background:#e5e7eb; padding:2px 6px; border-radius:6px;">
+            Software Developer
+          </span>
+          who enjoys building web applications.
+        </li>
+        <li>
+          🌱 Currently learning & improving skills in 
+          <span style="background:#e5e7eb; padding:2px 6px; border-radius:6px;">
+            Web Development
+          </span>.
+        </li>
+        <li>
+          📍 From Indonesia, living in Bogor.
+        </li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="img/cat.png" width="150" alt="cat" /> 
+    <td width="50%" align="center">
+      <img src="img/laptop-with-cat.svg" width="300" alt="cat" /> 
     </td>
   </tr>
 </table>
