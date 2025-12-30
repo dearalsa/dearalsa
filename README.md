@@ -6,7 +6,7 @@
   <img src="img/butterfly.gif" width="200" alt="butterfly" />
 </p>
 
-## 👋 About me
+# 👋 About me
 
 <table align="center">
   <tr>
@@ -15,16 +15,12 @@
       <ul>
         <li>
           💻 I'm a 
-          <span style="background:#e5e7eb; padding:2px 6px; border-radius:6px;">
-            Software Developer
-          </span>
+          <kbd>Software Developer</kbd>
           who enjoys building web applications.
         </li>
         <li>
           🌱 Currently learning & improving skills in 
-          <span style="background:#e5e7eb; padding:2px 6px; border-radius:6px;">
-            Web Development
-          </span>.
+          <kbd>Web Development</kbd>.
         </li>
         <li>
           📍 From Indonesia, living in Bogor.
