@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&display=swap&size=35&pause=1000&color=F0C9C9&center=true&vCenter=true&width=800&lines=Hallo,+I'm+shasha+^o^" />
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&display=swap&size=35&pause=1000&color=AC6B6B&center=true&vCenter=true&width=800&lines=Hallo,+I'm+shasha+^o^" />
 </p>
 
 <p align="center">
   <img src="img/butterfly.gif" width="200" alt="butterfly" />
 </p>
 
-# 👋 🇦🇧🇴🇺🇹 🇲🇪
+## ᵔ ᵕ ᵔ ABOUT ME 
 
 <table align="center">
   <tr>
