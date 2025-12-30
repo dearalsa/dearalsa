@@ -28,7 +28,7 @@
   </ul>
     </td>
     <td width="50%" align="center">
-      <img src="img/laptop-with-cat.svg" width="300" alt="cat" /> 
+      <img src="img/laptop-with-cat.svg" width="250" alt="cat" /> 
     </td>
   </tr>
 </table>
