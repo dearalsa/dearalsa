@@ -6,7 +6,7 @@
   <img src="img/butterfly.gif" width="200" alt="butterfly" />
 </p>
 
-# 👋 About me
+# 👋 ᴀʙᴏᴜᴛ ᴍᴇ 
 
 <table align="center">
   <tr>
