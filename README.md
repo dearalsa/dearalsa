@@ -8,4 +8,4 @@
 
 ## ᵔ ᵕ ᵔ ABOUT ME 
 
-**I enjoy creating things for the web with a soft and simple touch, focusing on clean visuals, smooth interactions, and small details that make a website feel comfortable to explore. I'm constantly learning, experimenting, and turning ideas into meaningful digital experiences at my own pace.**
+**A student learning web development by building things, exploring new ideas, and gradually improving skills through hands-on practice and real projects.**
