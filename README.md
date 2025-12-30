@@ -13,19 +13,19 @@
     <td width="50%" valign="top">
       <br />
       <ul>
-        <li>
-          💻 I'm a 
-          <kbd>Software Developer</kbd>
-          who enjoys building web applications.
-        </li>
-        <li>
-          🌱 Currently learning & improving skills in 
-          <kbd>Web Development</kbd>.
-        </li>
-        <li>
-          📍 From Indonesia, living in Bogor.
-        </li>
-      </ul>
+      <li>
+        💻 I'm a 
+        <img src="https://img.shields.io/badge/Software%20Developer-E5E7EB?style=flat&logoColor=black" vertical-align="middle" />
+        who enjoys building web applications.
+      </li>
+      <li>
+        🌱 Currently learning & improving skills in 
+        <img src="https://img.shields.io/badge/Web%20Development.-E5E7EB?style=flat&logoColor=black" vertical-align="middle" />
+      </li>
+      <li>
+      📍 From Indonesia, living in Bogor.
+    </li>
+  </ul>
     </td>
     <td width="50%" align="center">
       <img src="img/laptop-with-cat.svg" width="300" alt="cat" /> 
