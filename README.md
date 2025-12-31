@@ -52,7 +52,9 @@ A student learning web development by building things, exploring new ideas, and 
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
 </p>
+<br><br>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/dearalsa/dearalsa/https://github.com/dearalsa/dearalsa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/dearalsa/dearalsa/https://github.com/dearalsa/dearalsa/output/pacman-contribution-graph.svg">
@@ -64,3 +66,4 @@ A student learning web development by building things, exploring new ideas, and 
 <img src="https://raw.githubusercontent.com/https://github.com/dearalsa/dearalsa/https://github.com/dearalsa/dearalsa/output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
