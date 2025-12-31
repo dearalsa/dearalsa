@@ -29,4 +29,30 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+<br>
+
+### Let’s connect 👇🏻
+
+<p>
+  <a href="https://www.instagram.com/heyalsa_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="38" style="margin-right:10px;" />
+  </a>
+
+  <a href="https://discord.com/users/shasalaa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="38" style="margin-right:10px;" />
+  </a>
+
+  <a href="https://www.youtube.com/@hqasaux" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/youtube/FF0000"
+      height="38"
+      style="margin-right:10px;"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/putri-salsabila-30189b33a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+  </a>
+</p>
+
 
