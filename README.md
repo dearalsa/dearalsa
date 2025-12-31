@@ -9,7 +9,7 @@
 **A student learning web development by building things, exploring new ideas, and gradually improving skills through hands-on practice and real projects.**
 <br><br>
 
-### Skills and tools I work with:
+## Skills and tools I work with:
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,27 +31,27 @@
 </p>
 <br>
 
-### Let’s connect 👇🏻
+## Let’s connect 👇🏻
 
 <p>
   <a href="https://www.instagram.com/heyalsa_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38" style="margin-right:10px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" style="margin-right:13px;" />
   </a>
 
   <a href="https://discord.com/users/shasalaa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="38" style="margin-right:10px;" />
+    <img src="https://skillicons.dev/icons?i=discord" height="45" style="margin-right:13px;" />
   </a>
 
   <a href="https://www.youtube.com/@hqasaux" target="_blank">
     <img
       src="https://cdn.simpleicons.org/youtube/FF0000"
-      height="38"
-      style="margin-right:10px;"
+      height="45"
+      style="margin-right:13px;"
     />
   </a>
 
   <a href="https://www.linkedin.com/in/putri-salsabila-30189b33a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 </p>
 
