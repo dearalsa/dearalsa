@@ -40,16 +40,16 @@ A student learning web development by building things, exploring new ideas, and 
     <img src="https://skillicons.dev/icons?i=discord" height="42" style="margin-right:13px;" />
   </a>
 
-  <a href="https://www.youtube.com/@hqasaux" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/youtube/FF0000"
-      height="42"
-      style="margin-right:13px;"
-    />
+  <a href="https://www.linkedin.com/in/putri-salsabila-30189b33a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin-right:13px;" />
+  </a>
+  
+  <a href="https://x.com/catmythh" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" style="margin-right:13px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/putri-salsabila-30189b33a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  <a href="https://www.youtube.com/@hqasaux" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" />
   </a>
 </p>
 <br>
