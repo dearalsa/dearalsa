@@ -4,8 +4,7 @@
   <img src="img/butterfly.gif" width="200" alt="butterfly" />
 </p>
 
-## ᵔ ᵕ ᵔ ABOUT ME
-
+## ᵔ ᵕ ᵔ About Me
 **A student learning web development by building things, exploring new ideas, and gradually improving skills through hands-on practice and real projects.**
 <br><br>
 
