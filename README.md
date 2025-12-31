@@ -52,7 +52,7 @@ A student learning web development by building things, exploring new ideas, and 
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
 </p>
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dearalsa/dearalsa/output/pacman-contribution-graph-dark.svg">
