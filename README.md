@@ -7,7 +7,6 @@
 ## ᵔ ᵕ ᵔ ABOUT ME
 
 **A student learning web development by building things, exploring new ideas, and gradually improving skills through hands-on practice and real projects.**
-<br><br>
 
 ### Skills and tools I work with:
 <p align="center">
@@ -29,10 +28,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
-<br>
 
 ### Let’s connect 👇🏻
-
 <p>
   <a href="https://www.instagram.com/heyalsa_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="42" style="margin-right:13px;" />
@@ -54,5 +51,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
 </p>
+
 
 
