@@ -7,7 +7,6 @@
 ## ᵔ ᵕ ᵔ ABOUT ME
 
 **A student learning web development by building things, exploring new ideas, and gradually improving skills through hands-on practice and real projects.**
-
 <br>
 
 ### Skills and tools I work with:
