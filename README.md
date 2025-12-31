@@ -58,8 +58,7 @@ A student learning web development by building things, exploring new ideas, and 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dearalsa/dearalsa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dearalsa/dearalsa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dearalsa/dearalsa/output/pacman-contribution-graph.svg">
-</picture>
+  </picture>
 
-<br>
 
-<img src="https://raw.githubusercontent.com/dearalsa/dearalsa/output/snake.svg" alt="Snake animation" />
+
