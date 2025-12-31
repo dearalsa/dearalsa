@@ -9,13 +9,9 @@
 **A student learning web development by building projects, exploring ideas, and improving skills through hands-on practice. Here are the skills and tools I usually work with:**
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,next,tailwind&perline=7&theme=dark"
-  />
-  <br /><br />
-  <img
-    src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,figma&perline=5&theme=dark"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,next,tailwind&theme=dark" height="36" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres,figma&theme=dark" height="36" />
 </div>
 
 
